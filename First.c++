@@ -3,6 +3,10 @@ using namespace std;
 
 int main()
 {
-    cout<<"Hello";
+    int a,b,c;
+    cout<<"Enter two numbers - ";
+    cin>>a>>b;
+    c = a*b;
+    cout<<"Multiplication - "<<c;
     return 0;
 }
