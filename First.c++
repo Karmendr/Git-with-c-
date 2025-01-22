@@ -8,5 +8,7 @@ int main()
     cin>>a>>b;
     c = a*b;
     cout<<"Multiplication - "<<c;
+    cout<<"Addition - "<<a+b;
+    cout<<"Subtraction - "<<a-b;
     return 0;
 }
