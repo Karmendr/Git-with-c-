@@ -11,5 +11,7 @@ int main()
     cout<<"Divisoin - "<<a/b;
     cout<<"Persentage - "<<a%b;
     cout<<"grater or small - "<<(a>b);
+    cout<<"Addition - "<<a+b;
+    cout<<"Subtraction - "<<a-b;
     return 0;
 }
