@@ -8,5 +8,8 @@ int main()
     cin>>a>>b;
     c = a*b;
     cout<<"Multiplication - "<<c;
+    cout<<"Divisoin - "<<a/b;
+    cout<<"Persentage - "<<a%b;
+    cout<<"grater or small - "<<(a>b);
     return 0;
 }
